@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<firmware-update>
+  <version>0.0.1</version>
+  <modelname>ITB-5070</modelname>
+  <forceupdate>1</forceupdate>
+  <md5hash>baa14e913ac9ab47ebcb1db3ec316b43</md5hash>
+  <description>firmware release 20130513 ITB5070 1.0.0 RELASE</description>
+  <date>2013/02/15 08:18:12</date>
+  <condition>M</condition>
+</firmware-update>
